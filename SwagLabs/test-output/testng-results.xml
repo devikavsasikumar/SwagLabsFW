@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-01T08:56:06 IST" name="Default suite" finished-at="2024-10-01T08:56:28 IST" duration-ms="22491">
+    <groups>
+    </groups>
+    <test started-at="2024-10-01T08:56:06 IST" name="Default test" finished-at="2024-10-01T08:56:28 IST" duration-ms="22491">
+      <class name="com.qa.SauceDemo.Tests.ProductTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.SauceDemo.Tests.ProductTest@60099951]" started-at="2024-10-01T08:56:06 IST" name="setup" finished-at="2024-10-01T08:56:08 IST" duration-ms="2554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="ProdpageSetup()[pri:0, instance:com.qa.SauceDemo.Tests.ProductTest@60099951]" started-at="2024-10-01T08:56:08 IST" name="ProdpageSetup" finished-at="2024-10-01T08:56:10 IST" duration-ms="2158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProdpageSetup -->
+        <test-method signature="AproductnameTest()[pri:0, instance:com.qa.SauceDemo.Tests.ProductTest@60099951]" started-at="2024-10-01T08:56:10 IST" name="AproductnameTest" finished-at="2024-10-01T08:56:10 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AproductnameTest -->
+        <test-method signature="Bproductprice()[pri:0, instance:com.qa.SauceDemo.Tests.ProductTest@60099951]" started-at="2024-10-01T08:56:10 IST" name="Bproductprice" finished-at="2024-10-01T08:56:10 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bproductprice -->
+        <test-method signature="addToCartProductPage()[pri:0, instance:com.qa.SauceDemo.Tests.ProductTest@60099951]" started-at="2024-10-01T08:56:10 IST" name="addToCartProductPage" finished-at="2024-10-01T08:56:16 IST" duration-ms="5818" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartProductPage -->
+        <test-method signature="doCheckoutTest()[pri:0, instance:com.qa.SauceDemo.Tests.ProductTest@60099951]" started-at="2024-10-01T08:56:16 IST" name="doCheckoutTest" finished-at="2024-10-01T08:56:17 IST" duration-ms="799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doCheckoutTest -->
+        <test-method signature="finishtest()[pri:0, instance:com.qa.SauceDemo.Tests.ProductTest@60099951]" started-at="2024-10-01T08:56:17 IST" name="finishtest" finished-at="2024-10-01T08:56:28 IST" duration-ms="10715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finishtest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.SauceDemo.Tests.ProductTest@60099951]" started-at="2024-10-01T08:56:28 IST" name="tearDown" finished-at="2024-10-01T08:56:28 IST" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.SauceDemo.Tests.ProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
